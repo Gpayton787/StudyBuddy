@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/Gpayton787/StudyBuddy/static/css/main.073c9b0a.css",
-    "main.js": "/Gpayton787/StudyBuddy/static/js/main.0a4db352.js",
-    "static/js/787.cda612ba.chunk.js": "/Gpayton787/StudyBuddy/static/js/787.cda612ba.chunk.js",
-    "static/media/rickroll.gif": "/Gpayton787/StudyBuddy/static/media/rickroll.77e67cdfd3c20beec929.gif",
-    "index.html": "/Gpayton787/StudyBuddy/index.html",
-    "main.073c9b0a.css.map": "/Gpayton787/StudyBuddy/static/css/main.073c9b0a.css.map",
-    "main.0a4db352.js.map": "/Gpayton787/StudyBuddy/static/js/main.0a4db352.js.map",
-    "787.cda612ba.chunk.js.map": "/Gpayton787/StudyBuddy/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/StudyBuddy/static/css/main.d5a48a15.css",
+    "main.js": "/StudyBuddy/static/js/main.3d750ca7.js",
+    "static/js/787.cda612ba.chunk.js": "/StudyBuddy/static/js/787.cda612ba.chunk.js",
+    "static/media/rickroll.gif": "/StudyBuddy/static/media/rickroll.77e67cdfd3c20beec929.gif",
+    "static/media/read.jpg": "/StudyBuddy/static/media/read.ac2440dc0595b237cd9f.jpg",
+    "static/media/meditate.jpg": "/StudyBuddy/static/media/meditate.e3672b36bb9a18cdc1d1.jpg",
+    "static/media/sleep.jpg": "/StudyBuddy/static/media/sleep.823563001de4df3ed33a.jpg",
+    "static/media/Water.jpg": "/StudyBuddy/static/media/Water.06d33338bb121959e9bb.jpg",
+    "static/media/logo.PNG": "/StudyBuddy/static/media/logo.8d438225ae2b73449d77.PNG",
+    "static/media/S.jpg": "/StudyBuddy/static/media/S.b4fa16e7db0dde049e6d.jpg",
+    "index.html": "/StudyBuddy/index.html",
+    "main.d5a48a15.css.map": "/StudyBuddy/static/css/main.d5a48a15.css.map",
+    "main.3d750ca7.js.map": "/StudyBuddy/static/js/main.3d750ca7.js.map",
+    "787.cda612ba.chunk.js.map": "/StudyBuddy/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0a4db352.js"
+    "static/css/main.d5a48a15.css",
+    "static/js/main.3d750ca7.js"
   ]
 }

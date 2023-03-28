@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/StudyBuddy/static/css/main.d5a48a15.css",
-    "main.js": "/StudyBuddy/static/js/main.61f602f2.js",
+    "main.css": "/StudyBuddy/static/css/main.b58f679c.css",
+    "main.js": "/StudyBuddy/static/js/main.0c1c8e00.js",
     "static/js/787.cda612ba.chunk.js": "/StudyBuddy/static/js/787.cda612ba.chunk.js",
     "static/media/rickroll.gif": "/StudyBuddy/static/media/rickroll.77e67cdfd3c20beec929.gif",
     "static/media/read.jpg": "/StudyBuddy/static/media/read.ac2440dc0595b237cd9f.jpg",
@@ -10,13 +10,14 @@
     "static/media/Water.jpg": "/StudyBuddy/static/media/Water.06d33338bb121959e9bb.jpg",
     "static/media/logo.PNG": "/StudyBuddy/static/media/logo.8d438225ae2b73449d77.PNG",
     "static/media/S.jpg": "/StudyBuddy/static/media/S.b4fa16e7db0dde049e6d.jpg",
+    "static/media/add.png": "/StudyBuddy/static/media/add.90b950d171bb0b3986d1.png",
     "index.html": "/StudyBuddy/index.html",
-    "main.d5a48a15.css.map": "/StudyBuddy/static/css/main.d5a48a15.css.map",
-    "main.61f602f2.js.map": "/StudyBuddy/static/js/main.61f602f2.js.map",
+    "main.b58f679c.css.map": "/StudyBuddy/static/css/main.b58f679c.css.map",
+    "main.0c1c8e00.js.map": "/StudyBuddy/static/js/main.0c1c8e00.js.map",
     "787.cda612ba.chunk.js.map": "/StudyBuddy/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5a48a15.css",
-    "static/js/main.61f602f2.js"
+    "static/css/main.b58f679c.css",
+    "static/js/main.0c1c8e00.js"
   ]
 }
